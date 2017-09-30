@@ -19,4 +19,7 @@ Assignments for newbies (students of Prof. Gao)
 <P>
 <b>注意：</b>请尽量不要调用第三方的直接实现，如scikit-learn
 </P>
+<P>
+<b>Deadline：</b>2017-10-31
+</P>
 </div>
