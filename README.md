@@ -24,6 +24,7 @@ Assignments for newbies (students of Prof. Gao)
 </P>
 </div>
 
+<hr style=" height:2px;border:none;border-top:2px dotted #185598;" />
 
 <h2>Assignment 102 </h2>
 <div>
