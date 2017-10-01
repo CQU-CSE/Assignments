@@ -14,13 +14,13 @@ Assignments for newbies (students of Prof. Gao)
   <tr>
     <td>第1章</td>
     <td>统计学习方法概论1-24页</td>
-    <td>10.9-10.15</td>
+    <td>10.09-10.15</td>
     <td> </td>
     </tr> 
      <tr>
     <td>第2章</td>
     <td>感知机25-36页</td>
-    <td>10.9-10.15</td>
+    <td>10.09-10.15</td>
     <td>  </td>
     </tr>
      <tr>
@@ -50,7 +50,7 @@ Assignments for newbies (students of Prof. Gao)
      <tr>
     <td>第7章</td>
     <td>支持向量机95-134页</td>
-    <td>11.6-11.19</td>
+    <td>11.06-11.19</td>
     <td>  </td>
     </tr>
     <tr>
@@ -62,13 +62,13 @@ Assignments for newbies (students of Prof. Gao)
         <tr>
     <td>第9章</td>
     <td>EM算法及其推广155-170页</td>
-    <td>11.27-12.3</td>
+    <td>11.27-12.03</td>
     <td>  </td>
     </tr>
      <tr>
     <td>第10章</td>
     <td>隐马尔可夫模型171-189页</td>
-    <td>12.4-12.17</td>
+    <td>12.04-12.17</td>
     <td> </td>
     </tr> 
      <tr>
