@@ -1,6 +1,65 @@
 # Assignments
 Assignments for newbies (students of Prof. Gao)
 
+<h2>Study Plan 学习计划</h2>
+<p>以下为针对2017-2018学年研一及保研同学的《统计学习方法》一书的阅读进度安排。</p>
+<div>
+ <table class="table table-hover table-bordered">
+  <tr>
+    <th width="15%" scope="col"> 章节 </th>
+    <th width="60%" scope="col"> 内容 </th>
+    <th scope="col"> 日期 </th>
+    <th scope="col" class="text-center"> 负责人 </th>
+    </tr>
+  <tr>
+    <td>第1章</td>
+    <td>统计学习方法概论1-24页</td>
+    <td>10.9-10.15</td>
+    <td> </td>
+    </tr> 
+     <tr>
+    <td>第2章</td>
+    <td>感知机25-36页</td>
+    <td>10.9-10.15</td>
+    <td>  </td>
+    </tr>
+     <tr>
+    <td>第3章</td>
+    <td>k近邻法37-45页</td>
+    <td>10.16-10.22</td>
+    <td> </td>
+    </tr> 
+     <tr>
+    <td>第4章</td>
+    <td>朴素贝叶斯法47-53页</td>
+    <td>10.16-10.22</td>
+    <td>  </td>
+    </tr>
+        <tr>
+    <td>第5章</td>
+    <td>决策树55-75页</td>
+    <td>10.23-10.29</td>
+    <td>  </td>
+    </tr>
+     <tr>
+    <td>第6章</td>
+    <td>逻辑斯谛回归与最大熵模型77-94页</td>
+    <td>10.30-11.5</td>
+    <td> </td>
+    </tr> 
+     <tr>
+    <td>第7章</td>
+    <td>支持向量机95-134页</td>
+    <td>11.6-11.19</td>
+    <td>  </td>
+    </tr>
+   
+  </table>
+  </div>
+
+
+
+
 <h2>Assignment 101 </h2>
 <div>
 <p>
