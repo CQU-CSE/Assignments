@@ -44,7 +44,7 @@ Assignments for newbies (students of Prof. Gao)
      <tr>
     <td>第6章</td>
     <td>逻辑斯谛回归与最大熵模型77-94页</td>
-    <td>10.30-11.5</td>
+    <td>10.30-11.05</td>
     <td> </td>
     </tr> 
      <tr>
