@@ -2,7 +2,9 @@
 Assignments for newbies (students of Prof. Gao)
 
 <h2>Study Plan 学习计划</h2>
-<p>以下为针对2017-2018学年研一及保研同学的《统计学习方法》一书的阅读进度安排。</p>
+<p>以下为针对2017-2018学年研一及保研同学的《统计学习方法》一书的阅读进度安排。</br>
+<b>注:</b>《统计学习方法》中有少许错误，可查看<a herf="http://blog.csdn.net/wzmsltw/article/details/52718722">勘误表</a>修正。
+</p>
 <div>
  <table class="table table-hover table-bordered">
   <tr>
