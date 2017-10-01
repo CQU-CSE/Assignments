@@ -81,7 +81,7 @@ Assignments for newbies (students of Prof. Gao)
   </div>
 
 
-
+<hr style=" height:2px;border:none;border-top:2px dotted #185598;" />
 
 <h2>Assignment 101 </h2>
 <div>
@@ -106,7 +106,7 @@ Assignments for newbies (students of Prof. Gao)
 </P>
 </div>
 
-<hr style=" height:2px;border:none;border-top:2px dotted #185598;" />
+<hr>
 
 <h2>Assignment 102 </h2>
 <div>
