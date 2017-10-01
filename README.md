@@ -7,7 +7,7 @@ Assignments for newbies (students of Prof. Gao)
  <table class="table table-hover table-bordered">
   <tr>
     <th width="15%" scope="col"> 章节 </th>
-    <th width="60%" scope="col"> 内容 </th>
+    <th width="55%" scope="col"> 内容 </th>
     <th scope="col"> 日期 </th>
     <th scope="col" class="text-center"> 负责人 </th>
     </tr>
@@ -53,7 +53,30 @@ Assignments for newbies (students of Prof. Gao)
     <td>11.6-11.19</td>
     <td>  </td>
     </tr>
-   
+    <tr>
+    <td>第8章</td>
+    <td>提升方法137-153页</td>
+    <td>11.20-11.26</td>
+    <td>  </td>
+    </tr>
+        <tr>
+    <td>第9章</td>
+    <td>EM算法及其推广155-170页</td>
+    <td>11.27-12.3</td>
+    <td>  </td>
+    </tr>
+     <tr>
+    <td>第10章</td>
+    <td>隐马尔可夫模型171-189页</td>
+    <td>12.4-12.17</td>
+    <td> </td>
+    </tr> 
+     <tr>
+    <td>第11章</td>
+    <td>条件随机场191-210页</td>
+    <td>12.18-12.31</td>
+    <td>  </td>
+    </tr>
   </table>
   </div>
 
