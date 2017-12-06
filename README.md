@@ -136,6 +136,7 @@ Airfoils 数据分为两部分，一部分为1052 个包含sound pressure level�
 <b>Deadline：</b>2017-11-20
 </P>
 </div>
+<hr>
 
 <h2>Assignment 103 </h2>
 <div>
@@ -147,9 +148,9 @@ Airfoils 数据分为两部分，一部分为1052 个包含sound pressure level�
 	经过7年的发展与沉淀，目前阿里音乐拥有数百万的曲库资源，每天千万的用户活跃在平台上，拥有数亿人次的用户试听、收藏等行为。在原创艺人和作品方面，更是拥有数万的独立音乐人，每月上传上万个原创作品，形成超过几十万首曲目的原创作品库，如此庞大的数据资源库对于音乐流行趋势的把握有着极为重要的指引作用。</p>
 <p>
 	本次练习以阿里音乐用户的历史播放数据为基础，期望同学们可以通过对阿里音乐平台上每个阶段艺人的试听量的预测，挖掘出即将成为潮流的艺人，从而实现对一个时间段内音乐流行趋势的准确把控。</p>
-<h3>竞赛数据</span></h3>
+<b>数据说明</b></br>
 <p>
-	数据集包含抽样的歌曲艺人数据，以及和这些艺人相关的6个月内（20150301-20150830）的用户行为历史记录。</p>
+	数据集包含抽样的歌曲艺人数据，以及和这些艺人相关的6个月内（20150301-20150830）的用户行为历史记录。<a href="https://pan.baidu.com/s/1eRR3fAM">数据集下载</a></p>
 <h3>用户行为表（mars_tianchi_user_actions）</h3>
 <table border="1" cellpadding="0" cellspacing="0">
 	<tbody>
@@ -265,7 +266,7 @@ Airfoils 数据分为两部分，一部分为1052 个包含sound pressure level�
 </table>
 <p align="left">
 	注：用户对歌曲的任意行为为一行数据。</p>
-<h3>歌曲艺人（mars_tianchi_songs）</h3>
+<b>歌曲艺人（mars_tianchi_songs）</b></br>
 <table border="1" cellpadding="0" cellspacing="0">
 	<tbody>
 		<tr>
@@ -396,8 +397,8 @@ Airfoils 数据分为两部分，一部分为1052 个包含sound pressure level�
 		</tr>
 	</tbody>
 </table>
-<h2>
-	<span style="font-size: 14px;">任务：</span></h2>
+<h3>
+	<span style="font-size: 14px;">任务：</span></h3>
 <p align="left">
 	同学们需要预测艺人随后2个月，即60天（20150701-20150830）的播放数据。</p>
 <h2>
