@@ -400,7 +400,7 @@ Airfoils 数据分为两部分，一部分为1052 个包含sound pressure level�
 <b>任务</b></br>
 <p align="left">
 	同学们需要自行划分训练集测试集，预测艺人随后2个月，即60天（20150701-20150830）的播放数据。注：训练集内不能包含后两个月的用户行为数据</p>
-
+<b>评价指标</b></br>
 <p><img src="https://img.alicdn.com/tps/TB12LRiMXXXXXbKaXXXXXXXXXXX-801-341.png"></p>
 <p>
 <b>Deadline：2017-1-10</b>
