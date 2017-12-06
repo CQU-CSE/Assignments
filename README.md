@@ -403,6 +403,6 @@ Airfoils 数据分为两部分，一部分为1052 个包含sound pressure level�
 <b>评价指标</b></br>
 <p><img src="https://img.alicdn.com/tps/TB12LRiMXXXXXbKaXXXXXXXXXXX-801-341.png"></p>
 <p>
-<b>Deadline：2017-1-10</b>
+<b>Deadline：2017-1-20</b>
 </p>
 </div>
