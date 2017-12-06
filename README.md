@@ -151,7 +151,7 @@ Airfoils 数据分为两部分，一部分为1052 个包含sound pressure level�
 <b>数据说明</b></br>
 <p>
 	数据集包含抽样的歌曲艺人数据，以及和这些艺人相关的6个月内（20150301-20150830）的用户行为历史记录。<a href="https://pan.baidu.com/s/1eRR3fAM">数据集下载</a></p>
-<h3>用户行为表（mars_tianchi_user_actions）</h3>
+<b>用户行为表（mars_tianchi_user_actions）</b></br>
 <table border="1" cellpadding="0" cellspacing="0">
 	<tbody>
 		<tr>
@@ -397,13 +397,12 @@ Airfoils 数据分为两部分，一部分为1052 个包含sound pressure level�
 		</tr>
 	</tbody>
 </table>
-<h3>
-	<span style="font-size: 14px;">任务：</span></h3>
+<b>任务</b></br>
 <p align="left">
-	同学们需要预测艺人随后2个月，即60天（20150701-20150830）的播放数据。</p>
-<h2>
+	同学们需要自行划分训练集测试集，预测艺人随后2个月，即60天（20150701-20150830）的播放数据。注：训练集内不能包含后两个月的用户行为数据</p>
 
-<P>
-<b>Deadline：</b>2017-1-10
-</P>
+<p><img src="https://img.alicdn.com/tps/TB12LRiMXXXXXbKaXXXXXXXXXXX-801-341.png"></p>
+<p>
+<b>Deadline：2017-1-10</b>
+</p>
 </div>
