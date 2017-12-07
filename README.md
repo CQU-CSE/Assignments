@@ -152,7 +152,7 @@ Airfoils 数据分为两部分，一部分为1052 个包含sound pressure level�
 <p>
 	数据集包含抽样的歌曲艺人数据，以及和这些艺人相关的6个月内（20150301-20150830）的用户行为历史记录。<a href="https://pan.baidu.com/s/1eRR3fAM">数据集下载</a></p>
 <b>用户行为表（mars_tianchi_user_actions）</b></br>
-<table border="1" cellpadding="0" cellspacing="0">
+<table>
 	<tbody>
 		<tr>
 			<td style="width: 108px;">
@@ -267,7 +267,7 @@ Airfoils 数据分为两部分，一部分为1052 个包含sound pressure level�
 <p align="left">
 	注：用户对歌曲的任意行为为一行数据。</p>
 <b>歌曲艺人（mars_tianchi_songs）</b></br>
-<table border="1" cellpadding="0" cellspacing="0">
+<table>
 	<tbody>
 		<tr>
 			<td style="width: 130px;">
