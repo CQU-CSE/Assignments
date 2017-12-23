@@ -141,6 +141,27 @@ Airfoils 数据分为两部分，一部分为1052 个包含sound pressure level�
 <h2>Assignment 103 </h2>
 <div>
 <p>
+<b>练习内容：</b>掌握推荐系统算法的实现原理，熟悉实验室平台RecQ。
+</p>
+
+<p>
+	<b>详细说明：</b>在RecQ平台中实现论文<a href = "http://www.yifanhu.net/PUB/cf.pdf">Collaborative Filtering for Implicit Feedback Datasets</a>中的方法。步骤：首先Fork RecQ到自己的仓库，然后阅读已有的主要框架代码，参考其它基于item ranking的算法并在自己的分支中实现以上论文算法（algorithm/ranking目录下）。完成后经测试无误pull request到原项目。
+</p>
+<p>
+<b>输入与输出：</b>输入为平台内置数据集，输出为基于item recommendation的评估指标（内置）。
+</p>
+<p>
+<b>提示:</b>注意算法执行速度
+</p>
+<P>
+<b>Deadline：</b>2017-1-20
+</P>
+</div>
+<hr>
+
+<h2>Assignment 104 </h2>
+<div>
+<p>
 <b>练习内容：</b>音乐播放量预测，尝试多模型结合解决问题
 </p>
 
@@ -403,6 +424,6 @@ Airfoils 数据分为两部分，一部分为1052 个包含sound pressure level�
 <b>评价指标</b></br>
 <p><img src="https://img.alicdn.com/tps/TB12LRiMXXXXXbKaXXXXXXXXXXX-801-341.png"></p>
 <p>
-<b>Deadline：2018-01-20</b>
+<b>Deadline：2018-01-31</b>
 </p>
 </div>
