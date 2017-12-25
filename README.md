@@ -145,7 +145,7 @@ Airfoils 数据分为两部分，一部分为1052 个包含sound pressure level�
 </p>
 
 <p>
-	<b>详细说明：</b>在RecQ平台中实现论文<a href = "http://www.yifanhu.net/PUB/cf.pdf">Collaborative Filtering for Implicit Feedback Datasets</a>中的方法。步骤：首先Fork RecQ到自己的仓库，然后阅读已有的主要框架代码，参考其它基于item ranking的算法并在自己的分支中实现以上论文算法（algorithm/ranking目录下）。完成后经测试无误pull request到原项目。
+	<b>详细说明：</b>在RecQ平台中实现论文<a href = "http://www.yifanhu.net/PUB/cf.pdf">Collaborative Filtering for Implicit Feedback Datasets</a>中的方法。步骤：首先Fork RecQ到自己的仓库，然后阅读已有的主要框架代码，参考其它基于item ranking的算法并在自己的分支中实现以上论文算法（algorithm/ranking目录下）。完成后经测试无误pull request到原项目。注：本次练习不需要实验报告
 </p>
 <p>
 <b>输入与输出：</b>输入为平台内置数据集，输出为基于item recommendation的评估指标（内置）。
